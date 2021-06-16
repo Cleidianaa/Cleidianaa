@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 My name is Cleidiana Passos, I'm live in Lisbon.🏡 I'm **Python** students now. 👩‍👩‍💻
 
-##Find me elsewhere 👇
+
+### Find me elsewhere 👇
 
 <a href='https://www.linkedin.com/in/cleidiana-passos/' target='_blue'>
 <img align='center' alt='cleidiana-linkedin' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'
