@@ -28,14 +28,6 @@ style='max-width:100%;'>
 <img align='center' alt='cleidiana-instagran' height='30' width='40' src='https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png'
 style='max-width:100%;'>
 </a>
-<a href='https://www.facebook.com/cleidiana1/' target='_blue'>
-<img align='center' alt='cleidiana-facebook' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg'
-style='max-width:100%;'>
-</a>
-<a href='https://www.youtube.com/channel/UCc2gj8sdyhA88AT5SHeAY4w' target='_red'>
-<img align='center' alt='cleidiana-youtube' height='30' width='40' src='https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png'
-style='max-width:100%;'>
-</a>
 
 
   
