@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Cleidiana Passos, I'm live in Lisbon.🏡 I'm **Python** students now. 👩‍👩‍💻
 
 
-### Find me elsewhere 👇
+### Contact 👇
 
  <a href="https://www.instagram.com/cleidpassos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cleidiana-passos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
