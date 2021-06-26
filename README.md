@@ -1,4 +1,4 @@
-### Oi! Bem vindo ao meu perfil!👋
+### Oi! Eu sou cleidiana Barbosa, Bem vindo ao meu perfil!👋
 
 <!--
 **Cleidianaa/Cleidianaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Estudante de Tecnólogia, focada em Desenvolvimento Web . <img height="15" src="https://www.stepmap.de/img/flags/pt.svg">
 
-Eu Cleidiana Barbosa! moro em lisboa, Portugal 👩
-
- ## Skills :nerd_face:
+ ## Skills :computer:
 <p align="center">
  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
