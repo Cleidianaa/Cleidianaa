@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Cleidiana Passos, I'm live in Lisbon.🏡 I'm **Python** students now. 👩‍👩‍💻
+My name is Cleidiana Barbosa, I'm live in Lisbon.🏡 I'm **students** now. 👩‍👩‍💻
 
 
 ### Contact 👇
