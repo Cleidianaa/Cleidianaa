@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 Estudante de Tecnólogia, focada em Desenvolvimento Web . <img height="15" src="https://www.stepmap.de/img/flags/pt.svg"/>
 <div>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Cleidianaa&show_icons=true&theme=">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleidianaa&layout=compact&lang&theme=">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Cleidianaa&show_icons=true&theme=vision-friendly-dark">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleidianaa&layout=compact&lang&theme=vision-friendly-dark">
 </div>
 
 
@@ -27,12 +27,17 @@ Estudante de Tecnólogia, focada em Desenvolvimento Web . <img height="15" src="
 
    <img height="30" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img height="30" src="https://thumbnail.imgbin.com/0/8/11/imgbin-javascript-logo-html-javascript-logo-1gJt6c05WzKXQuybWYgXvaTYk_t.jpg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDzWIOMgqPnSVY3LACtUm7GxgC5dyY0ek7Vw&usqp=CAU">        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDzWIOMgqPnSVY3LACtUm7GxgC5dyY0ek7Vw&usqp=CAU">         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+ 
  <!--  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </div>-->
 
