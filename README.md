@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 Estudante de Tecnólogia, focada em Desenvolvimento Web . <img height="15" src="https://www.stepmap.de/img/flags/pt.svg"/>
 <div>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Cleidianaa&show_icons=true&theme=vision-friendly-dark">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleidianaa&layout=compact&lang&theme=vision-friendly-dark">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cleidianaa&show_icons=true&theme=vision-friendly-dark">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleidianaa&layout=compact&lang&theme=vision-friendly-dark">
 </div>
 
 
