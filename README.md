@@ -1,25 +1,16 @@
 ### HEY, I'M Cleidi 🙋‍♀️:
 
-<!--
-**Cleidianaa/Cleidianaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m a technology student.
+- 🌱 I’m currently learning HTML,CSS,Javascript,React and Node.js
+- ❤ I’m interests on DevOps (tools, and culture)
+- 👩‍💻 I intend to be a fullstack web developer
+- ⚡ Fun fact: ✨✨✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Estudante de Tecnólogia, focada em Desenvolvimento Web .
 <div>
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=Cleidianaa&show_icons=true&theme=vision-friendly-dark">
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleidianaa&layout=compact&lang&theme=vision-friendly-dark">
 </div>
-
 
  ## Languages | code In 👊💻:
 <a href="https://www.w3.org/Style/CSS/" target="_blank">
@@ -67,6 +58,7 @@ Estudante de Tecnólogia, focada em Desenvolvimento Web .
      <img height="28"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
 
 
 
