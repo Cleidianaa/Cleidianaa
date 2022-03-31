@@ -4,10 +4,11 @@
 
 
 - 🔭 I’m a technology student.
-- 🌱 I’m currently learning HTML,CSS,Javascript,React and Node.js
-- ❤ I’m interests on DevOps (tools, and culture)
-- 👩‍💻 I intend to be a fullstack web developer
-- ⚡ Fun fact: ✨✨✨
+- 🌱 HTML|CSS|Javascript|C/C++
+- ✋ I accept improvement sugetões for my codes
+- 📬 Linkedin: 
+- https://www.linkedin.com/in/cleidiana-barbosa
+- ⚡ Fun fact: i love to dance
 
 <div>
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=Cleidianaa&show_icons=true&theme=gruvbox">
