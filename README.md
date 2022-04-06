@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m a technology student.
-- 🌱 HTML|CSS|Javascript|C/C++
+- 🌱 HTML | CSS | Javascript | C/C++
 - ✋ I accept improvement sugetões for my codes
 - 📬 Linkedin: 
 - https://www.linkedin.com/in/cleidiana-barbosa
