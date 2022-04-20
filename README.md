@@ -25,6 +25,7 @@
 <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1DA99F?style=for-the-badge&logo=css3&logoColor=white">
 </a>
+<!--
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
@@ -34,6 +35,7 @@
 <a href="https://www.reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/react-%1572B6?style=for-the-badge&logo=react&logoColor=white">
 </a>
+-->
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-E34F11?style=for-the-badge&logo=git&logoColor=white">
 </a>
