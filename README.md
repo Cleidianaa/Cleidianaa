@@ -5,7 +5,7 @@
 
 - 🔭 I’m a technology student.
 - 🌱 HTML | CSS | Javascript | C/C++
-- ✋ I accept improvement sugetões for my codes
+- ✋ I accept improvement suggestions for my codes
 - 📬 Linkedin: 
 - https://www.linkedin.com/in/cleidiana-barbosa
 - ⚡ Fun fact: i love to dance
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Notion-%23201100.svg?style=for-the-badge&logo=notion&logoColor=white">
 </a>
 
-### Contate-me 📳:
+### Contact me 📳:
 <div>
 <p align="center">
   <a href="https://www.linkedin.com/in/cleidiana-passos" target="_blank">
